@@ -1,4 +1,6 @@
-# kyte
+<img src="https://github.com/mihirchakma/kyte/blob/main/kyte.png" alt="Alt text" title="Optional title">
+
+<h1 align="center">Kyte</h1>
 
 **Kyte** is a real-time end-to-end encrypted web-based **Chat Application** a communication tool that allows users to exchange messages over the internet in a secure and private manner. Here's a brief overview of the key processes.
 
